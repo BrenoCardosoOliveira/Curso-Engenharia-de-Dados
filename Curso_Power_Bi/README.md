@@ -25,7 +25,7 @@ Este repositório contém os exercícios e projetos realizados durante o curso d
 - Primeiros passos com DAx e cálculos
 - otimização de modelos de dados com foco em desempenho
 
-### 4. Data Analytics e Storytelling com Power BI
+### 5. Data Analytics e Storytelling com Power BI
 - Relatório e xperiência do usuário
 - Recursos para criar Storylling dos dados
 - Fundamentos de data analytics
