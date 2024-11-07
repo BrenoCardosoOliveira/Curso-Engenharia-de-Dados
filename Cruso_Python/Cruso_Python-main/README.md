@@ -10,14 +10,14 @@ Este repositório contém os exercícios realizados durante o curso de Python, a
 - Estruturas de repetição (for, while)
 - Funções e escopo
   
-  ###2. Coleções
+### 2. Coleções
 - Listas
 - Tuplas
 - Dicionários 
 - Conjuntos
 - Data, hora e fuso horário
 
-### 2. Programação Orientada a Objetos (POO)
+### 3. Programação Orientada a Objetos (POO)
 - Criação e uso de classes
 - Atributos e métodos
 - Encapsulamento
